@@ -1,4 +1,8 @@
 # HighSpeedRailwayCapabilityElementSystem-HSR_version1
+！！！！部分文件过大未上传成功，数据平台还在测试中，如需学习可发邮件联系本人
+
+
+
     该项目是C#调用echats、leaflet、access数据库等实现的简单数据管理平台
     高速铁路能力要素基础数据平台
     高速铁路能力要素管理信息系统使用说明书
